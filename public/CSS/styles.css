@@ -1,0 +1,43 @@
+body{
+  text-align: center;
+  margin: auto;
+  color:white;
+}
+
+input{
+  margin-top: 2px;
+  margin-right: 10px;
+  height: 35px;
+  width:300px
+
+}
+footer{
+  display: sticky;
+}
+.my-btn{
+  margin-left: 10px;
+}
+h1{
+  font-size: 4rem;
+  margin: 50px auto 10px auto;
+}
+
+
+a{
+  color: #B9F3FC;
+  text-decoration: none;
+  margin: 10px;
+}
+
+
+.bottom-container{
+  padding: 35px;
+}
+.bottom-container p{
+  color: white;
+  margin: 10px auto;
+}
+
+.bottom-container a:hover{
+  color: white;
+}

@@ -1,0 +1,27 @@
+body{
+  text-align: center;
+  margin: auto;
+}
+
+
+a{
+  color: #B9F3FC;
+  text-decoration: none;
+  margin: 10px;
+}
+
+h1,p,li,ul,ol{
+  color:white;
+}
+
+.bottom-container{
+  padding: 35px;
+}
+.bottom-container p{
+  color: white;
+  margin: 10px auto;
+}
+
+.bottom-container a:hover{
+  color: white;
+}
